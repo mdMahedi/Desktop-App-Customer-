@@ -1,0 +1,13 @@
+E:\Class\ASP.net\Desktop\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe.config
+E:\Class\ASP.net\Desktop\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe
+E:\Class\ASP.net\Desktop\DesktopApp\DesktopApp\bin\Debug\DesktopApp.pdb
+E:\Class\ASP.net\Desktop\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csprojResolveAssemblyReference.cache
+E:\Class\ASP.net\Desktop\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Properties.Resources.resources
+E:\Class\ASP.net\Desktop\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.Cache
+E:\Class\ASP.net\Desktop\DesktopApp\DesktopApp\obj\Debug\DesktopApp.exe
+E:\Class\ASP.net\Desktop\DesktopApp\DesktopApp\obj\Debug\DesktopApp.pdb
+E:\Class\ASP.net\Desktop\DesktopApp\DesktopApp\obj\Debug\DesktopApp.SelectCustomers.resources
+E:\Class\ASP.net\Desktop\DesktopApp\DesktopApp\obj\Debug\DesktopApp.InsertIntoCustomers.resources
+D:\Class\ASP.net\Desktop\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe.config
+D:\Class\ASP.net\Desktop\DesktopApp\DesktopApp\obj\Debug\DesktopApp.exe
+D:\Class\ASP.net\Desktop\DesktopApp\DesktopApp\obj\Debug\DesktopApp.pdb
